@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/.vs/
+/x64/
+
+travis_ci_test/x64/
+travis_ci_test/*.vcxproj.user
