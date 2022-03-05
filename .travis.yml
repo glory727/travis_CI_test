@@ -1,5 +1,4 @@
-language: cpp
-compiler:
-    - gcc
-    - clang
-script: true
+language: ruby
+rvm:
+ - 2.2
+ - jruby
